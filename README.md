@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Gustavo</h1>
 <h3 align="center">I'm a Full Stack student, and I'm from Brazil</h3>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=gustaexausto&label=Profile%20views&color=8a2be2 style=flat /> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=gustaexausto&label=Profile%20views&color=5e2129 style=flat /> </p>
 
 - 💬 Ask me about whatever you want, if I know I'll answer
 
